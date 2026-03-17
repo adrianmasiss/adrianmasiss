@@ -6,9 +6,9 @@
 
 ## 🎯 About Me
 
-Futuro Ingeniero en Sistemas (graduación 2027) con **casi 4 años de experiencia en corporativo** (L.L.Bean) combinando soporte técnico avanzado, QA automation y diagnóstico de problemas complejos.
+Future Systems Engineer (graduating 2027) with nearly four years of corporate experience (LL.L. Bean) combining advanced technical support, QA automation, and complex problem diagnosis.
 
-Mi enfoque: **Resolver problemas reales con código seguro, eficiente y bien documentado.**
+My focus: Solving real-world problems with secure, efficient, and well-documented code.
 
 ### 🛠️ What I Work With
 
@@ -54,9 +54,8 @@ I'm also passionate about **learning in public** and helping others understand c
 ## 📬 Let's Connect
 
 - 💼 Open to opportunities in: Backend Engineering, QA Automation, DevOps, Cloud
-- 📧 Email: [tu-email@tudominio.com]
-- 🔗 LinkedIn: [Tu perfil de LinkedIn]
-- 🧵 Twitter/X: [@tuhandle] (opcional)
+- 📧 Email: [adrian_7077@hotmail.com]
+- 🔗 LinkedIn: [www.linkedin.com/in/adrian-masis-salazar-760185365]
 
 ---
 
